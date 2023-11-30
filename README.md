@@ -1,3 +1,50 @@
+<h1 align="center" id="title">CodePan</h1>
+
+<p align="center"><img src="https://socialify.git.ci/siddhakdak/codestudio/image?description=1&amp;forks=1&amp;issues=1&amp;language=1&amp;name=1&amp;owner=1&amp;pattern=Plus&amp;pulls=1&amp;stargazers=1&amp;theme=Light" alt="project-image"></p>
+
+<p id="description">created a powerful online code editor that supports HTML CSS and JS all in one seamless environment. 🚀</p>
+
+<h2>🚀 Demo</h2>
+
+[https://lnkd.in/dHusC22S](https://lnkd.in/dHusC22S)
+
+  
+  
+<h2>🧐 Features</h2>
+
+Here're some of the project's best features:
+
+*   SignUp with Email and Password Google and Github.
+*   Multi User Project Display
+*   Store data and Codebase of Users
+*   manage users
+*   Firebase handles authentication and provides a secure database for your projects.
+*   Seamless integration with React for a smooth user experience.
+*   Run and test your HTML CSS and JS code instantly!
+
+  
+  
+<h2>💻 Built with</h2>
+
+Technologies used in the project:
+
+*   react
+*   redux
+*   firebase
+*   tailwind
+
+<h2>💖Like my work?</h2>
+
+Contact me at siddhakdak19@gmail.com linkedin - https://www.linkedin.com/in/siddhak-dak/
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
