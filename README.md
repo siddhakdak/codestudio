@@ -6,7 +6,7 @@
 
 <h2>🚀 Demo</h2>
 
-[https://lnkd.in/dHusC22S](https://lnkd.in/dHusC22S)
+https://code-wiz-5ab57.web.app/home
 
   
   
